@@ -1,5 +1,6 @@
 # Project exclude paths
 /out/
-*.xml
+.xml
 .gitignore
 *.iml
+.idea
